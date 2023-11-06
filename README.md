@@ -22,7 +22,7 @@ Before using this script, make sure you have installed the Tweepy library by fol
 
    For example, to include a variable in the tweet, you can use f-strings like this:
 
-   i = 1
+   i = 1; 
    client.create_tweet(text=f"Hello World! {i}")
 
 4. Execute the script with VsCode or with the following command line : python3 twitter_bot.py
