@@ -1,4 +1,3 @@
-
 import tweepy
 
 def main():
